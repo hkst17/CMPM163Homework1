@@ -6,7 +6,7 @@ Part 1 has three objects that rotate and has 3 lights that also move. The first 
 
 Part 2 has two objects that both has the same effect of an image processing shader. It pulls the image up, down, left, and right by using the arrow buttons. https://hkst17.github.io/PART2/
 
-Part 3 is similar to the game of life shader. I changed the color and slightly changed the values so it makes it react differently. 
+Part 3 is similar to the game of life shader. I changed the color and slightly changed the values so it makes it react differently. https://hkst17.github.io/PART3/
 
 ![alt text](/CMPM163Homework1/Screen Shot 2019-04-25 at 12.18.39 PM.png " ")
 ![alt text](/CMPM163Homework1/Screen Shot 2019-04-25 at 12.19.40 PM.png " ")
