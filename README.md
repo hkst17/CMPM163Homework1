@@ -12,6 +12,6 @@ Part 3 is similar to the game of life shader. I changed the color and slightly c
 ![alt text](/CMPM163Homework1/Screen Shot 2019-04-25 at 12.19.40 PM.png " ")
 ![alt text](/CMPM163Homework1/Screen Shot 2019-04-25 at 12.20.29 PM.png " ")
 
-https://github.com/hkst17/CMPM163Homework1/tree/master/Build
+
 
 
